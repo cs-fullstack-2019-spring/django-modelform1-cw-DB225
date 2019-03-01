@@ -1,3 +1,6 @@
+## POINTS: 2
+## KEY: You are one of the few who didn't leave out the 'published_date' field! You didn't code the model to update the field automatically, but you have it.
+
 # Django Model Forms 1 CW
 
 ### Exercise 1: Create a basic blog entry page
